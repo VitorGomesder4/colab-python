@@ -2,8 +2,8 @@
 Minha Jornada de Estudos da linguagem Python
 
 **Minha jornada aprendendo python (Os links não se encontram ordenados de aprendizado)**
-Odd or Even: https://colab.research.google.com/drive/1QmQfNuFBk6hgsfvphXD1bnN1yTIhGXoC?usp=sharing
-Manipulação de Lista ED: https://colab.research.google.com/drive/1Kq-bz7fJ9j6WxC1S7i8QGqmW8pBJ9cIL?usp=sharing
+Odd or Even: https://colab.research.google.com/drive/1QmQfNuFBk6hgsfvphXD1bnN1yTIhGXoC?usp=sharing <br>
+Manipulação de Lista ED: https://colab.research.google.com/drive/1Kq-bz7fJ9j6WxC1S7i8QGqmW8pBJ9cIL?usp=sharing <br>
 Testes de funções e Manipulação dos dados: https://colab.research.google.com/drive/1KoFcRcOCrPZcKP5BgQPtLyB7mOnfVmkp?usp=sharing
 Primeira Listas de exercícios python: https://colab.research.google.com/drive/1ErqMLRfvfhmaZ6o7DzgMXH0OWuySXRtD?usp=sharing
 Funções: https://colab.research.google.com/drive/1oVca4KvvoDvLH6lwq7H7DZ1xd88x31X5?usp=sharing
